@@ -1,0 +1,42 @@
+
+
+
+
+
+
+First, the key contributions of this study can be summarized as follows: (1) the proposition of a layered approach to integrating AI and DT technologies into an AI–DT system called the
+
+
+search of papers published in at least
+
+
+were removed from consideration on account of their failure to undergo peer reviews or to pertain to the topic of DT systems used in infrastructure management
+
+
+
+the use of DT technology within
+
+
+a significant role played by AI-based computational models and algorithms in
+
+
+using the potential of AI-enhanced DT technology for
+
+
+the application of AI-integrated DT infrastructure to
+
+
+implementation of intelligent DT technology to support CBM in
+
+
+an advanced application of AI-DT technology aimed at sustainable governance of coastal and port infrastructure
+
+
+the exploitation of AI-enhanced DT infrastructure for early fault detection in
+
+
+continuous underground monitoring via AI-DT infrastructure with the help of distributed IoT networks
+
+
+instantaneous sensor measurements
+
